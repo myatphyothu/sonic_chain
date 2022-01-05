@@ -1,0 +1,15 @@
+{
+  "name": "sonic_chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quickchain.js",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
